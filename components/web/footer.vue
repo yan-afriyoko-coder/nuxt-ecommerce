@@ -55,7 +55,7 @@
           <h4 class="font-weight-bold">JAM OPERASIONAL</h4>
           <hr style="border-top: 3px solid rgb(226, 232, 240); border-radius: 0.5rem;">
           <p><i class="fa fa-clock"></i> Toko Buka Setiap Hari : <br><br> <strong>Senin - Jum'at</strong> ( 07.00 s/d
-            19.00 ) <br> <strong>Sabtu - Minggu</strong> ( 07.00 s/d 16.00 ) </p>
+            19.00 ) <br> <strong>Sabtu - Minggu</strong> ( 07.00 s/d 17.00 ) </p>
         </div>
       </div>
       <div class="row text-center mt-3 pb-3">
